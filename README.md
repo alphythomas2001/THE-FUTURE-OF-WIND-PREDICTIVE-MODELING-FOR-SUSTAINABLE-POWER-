@@ -1,7 +1,7 @@
 This project focuses on predicting wind turbine power output using machine learning based on meteorological factors such as wind speed, temperature, and humidity. It helps analyze how weather conditions impact power generation and supports operational planning for wind farms.
 
-What has been done in this project?
-
+**What has been done in this project?
+**
 ✅ Data Collection and Preparation
 
 Collected hourly weather and power generation data from operational wind turbines.
@@ -40,7 +40,8 @@ Developed graphs and heatmaps to understand the data and model predictions visua
 
 Included feature importance plots to interpret which factors contribute most to power generation.
 
-Project Outcomes
+**Project Outcomes**
+
 ✅ Understand how weather impacts wind power generation.
 ✅ Accurately predict wind turbine power output using machine learning.
 ✅ Provide a user-friendly GUI for visualization and prediction.
