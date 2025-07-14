@@ -44,5 +44,6 @@ Included feature importance plots to interpret which factors contribute most to 
 
 ✅ Understand how weather impacts wind power generation.
 ✅ Accurately predict wind turbine power output using machine learning.
+
 ✅ Provide a user-friendly GUI for visualization and prediction.
 ✅ Support operational and planning decisions in wind energy management.
